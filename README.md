@@ -1,6 +1,6 @@
 # hi there, you can call me *tassan*
 
-Senior Software Engineer #OpenToWork
+Senior Software Engineer @ Mojo Trek
 
 Focused in backend, software arch and bad jokes.
 
